@@ -14,6 +14,7 @@ analysis techniques and presentation of results to a client.
 - The column names may NOT be clear at times:
 
   _In the real world we will run into similar challenges. We would then go ask our business clients for more information. In this case, let us assume our business client who would give us information, left the company. Meaning we would have to identify and look up what each column names might actually mean. (google is your friend ;) )_
+  
 
 # The Tasks
 
